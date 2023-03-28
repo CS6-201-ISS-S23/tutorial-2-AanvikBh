@@ -1,0 +1,58 @@
+.footers {
+    background-color: rgb(240, 8, 8);
+    color: whitesmoke;
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 2px;
+
+}
+
+.Font_Styling {
+    font-family: Times;
+    font-size: 30px;
+    text-align: left;
+    font-weight:bold;
+    width: 40ch;
+    
+}
+
+.cats {
+    width: 500px;
+    object-fit: cover;
+    object-position: center;
+    float: right;
+}
+
+.catstxt {
+    display: inline-block;
+    width: 30ch;
+}
+
+table, th, td {
+    border: 1px solid rgb(32, 229, 206);
+}
+
+.solid{
+    border-top: 3px solid rgb(0, 0, 0);
+    width: 50ch;
+    align-items: center;
+}
+
+.solidsmaller{
+    border-top: 3px solid rgb(0, 0, 0);
+    width: 100px;
+    align-items: center;
+}
+
+.right_align{
+    text-align: right;
+}
+
+.bold_headings,
+.right_align{
+    font-weight: bold;
+}
+.centre_aligned{
+    text-align: center;
+}
